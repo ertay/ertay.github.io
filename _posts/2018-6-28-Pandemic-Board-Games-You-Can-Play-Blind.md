@@ -1,6 +1,7 @@
 ---
 title: "Pandemic - Board Games You Can Play Blind"
-categories: board-games
+categories: Board Games
+permalink: /Pandemic-Board-Games-You-Can-Play-Blind/
 ---
 Saving the world from deadly diseases is not a simple task as it requires flying around the world, building research stations, setting up quarantine zones, treating the infected, managing outbreaks, and finally discovering cures! The question we are asking is, 'Can you do all of this, blind?' Let's find out...
 
