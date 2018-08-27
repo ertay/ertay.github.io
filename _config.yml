@@ -86,25 +86,25 @@ og_image                 : # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
+  type                   : Organization # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "custom"
+  provider               : "google" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : 
+    tracking_id          : "UA-120521683-1"
     anonymize_ip         : # true, false (default)
 
 
 # Site Author
 author:
   name             : "Ertay Shashko"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : /assets/images/avatar_ertay.jpg# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Software Engineer interested in accessibility and board games."
   location         : "Macedonia"
-  email            :
+  email            : "sightlessfun@outlook.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
@@ -125,7 +125,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          :
+  twitter          : ertaysh
   vine             :
   weibo            :
   xing             :
