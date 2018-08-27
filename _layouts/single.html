@@ -46,7 +46,7 @@ layout: default
         {% if page.link %}<div><a href="{{ page.link }}" class="btn btn--primary">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
       </section>
 
-      <iframe scrolling="no" style="width:100%!important;height:220px;border:1px #ccc solid !important" src="https://buttondown.email/sightlessfun?as_embed=true"></iframe>
+      
 
       <footer class="page__meta">
         {% if site.data.ui-text[site.locale].meta_label %}
@@ -61,6 +61,22 @@ layout: default
       </footer>
 
       {% if page.share %}{% include social-share.html %}{% endif %}
+
+      <form
+  action="https://buttondown.email/api/emails/embed-subscribe/sightlessfun"
+  method="post"
+  target="popupwindow"
+  onsubmit="window.open('https://buttondown.email/sightlessfun', 'popupwindow')"
+  class="embeddable-buttondown-form"
+>
+  <label for="bd-email">Enter your email</label>
+  <input type="email" name="email" id="bd-email">
+  <input type="hidden" value="1" name="embed"/>
+  <input type="submit" value="Subscribe" />
+  <p>
+    <a href="https://buttondown.email" target="_blank">Powered by Buttondown.</a>
+  </p>
+</form>
 
       {% include post_pagination.html %}
     </div>
