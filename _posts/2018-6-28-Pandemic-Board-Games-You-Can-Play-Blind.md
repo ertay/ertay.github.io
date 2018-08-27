@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Pandemic - Board Games You Can Play Blind"
 categories: board-games
 ---

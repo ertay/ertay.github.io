@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Camel Up - Board Games You Can Play Blind"
 categories: board-games
 ---

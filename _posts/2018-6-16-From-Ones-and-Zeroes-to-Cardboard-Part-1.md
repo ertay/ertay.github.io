@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "From Ones and Zeroes to Cardboard - Part 1"
 categories: general
 ---

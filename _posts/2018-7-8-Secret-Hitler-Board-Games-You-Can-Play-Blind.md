@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Secret Hitler - Board Games You Can Play Blind"
 categories: board-games
 ---

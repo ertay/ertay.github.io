@@ -1,5 +1,4 @@
 ---
-layout: post
 title: An Introduction
 categories: general
 ---
