@@ -1,6 +1,7 @@
 ---
 title: "Camel Up - Board Games You Can Play Blind"
-categories: board-games
+categories: BoardGames
+permalink: /Camel-Up-Board-Games-You-Can-Play-Blind/
 ---
 We have all gathered to watch and make some easy cash at an exciting and unpredictable camel race around a pyramid in Egypt. Place your bets and start biting your nails as you root for your favorite camel rushing to the finish line! 
 

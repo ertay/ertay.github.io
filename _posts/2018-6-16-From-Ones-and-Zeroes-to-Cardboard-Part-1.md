@@ -1,6 +1,7 @@
 ---
 title: "From Ones and Zeroes to Cardboard - Part 1"
-categories: general
+categories: General
+permalink: /From-Ones-and-Zeroes-to-Cardboard-Part-1/
 ---
 Alrighty, now that we're through with the [introductions](https://sightless.fun/An-Introduction), let's talk about the transition from the vast virtual worlds created by the endless strings of 'ones' and 'zeroes' that come alive in our display screens, to something much simpler and older: cardboard.
 

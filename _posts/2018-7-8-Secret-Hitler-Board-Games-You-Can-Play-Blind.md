@@ -1,6 +1,6 @@
 ---
 title: "Secret Hitler - Board Games You Can Play Blind"
-categories: "Board Games"
+categories: BoardGames
 permalink: /Secret-Hitler-Board-Games-You-Can-Play-Blind/
 ---
 It is the early 1930s in Germany. The fascist party is on the rise and they can be ruthless when it comes to completing their main goal: get Hitler, their cold-blooded leader, to power. How effective can you be at helping or stopping him as a blind politician? Let's find out...

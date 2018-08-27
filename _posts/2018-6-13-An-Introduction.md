@@ -1,6 +1,7 @@
 ---
 title: An Introduction
-categories: general
+categories: General
+permalink: /An-Introduction/
 ---
 Hello there, and welcome to my new blog! I'm Ertay and in this blog I will talk about my hobbies. This blog will mostly be aimed at people who are blind or visually impaired. However, if you are neither of those, stick around and you will get a closer look into the life of a sightless individual..
 
