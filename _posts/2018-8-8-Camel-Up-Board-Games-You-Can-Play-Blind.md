@@ -11,7 +11,7 @@ In this installment of the "Board Games You Can Play Blind" series, we take a lo
 
 As usual, we will start with the game overview and how it is played followed by the visual accessibility analysis and what challenges blind players need to overcome to be able to play this game. 
 
-![Image showing all the game components]({{ site.baseurl }}/images/camel-up-unboxed.jpg "Camel Up Components")
+![Image showing all the game components]({{ site.baseurl }}/assets/images/camel-up-unboxed.jpg "Camel Up Components")
 _Image showing all the game components_
 
 ## Game Overview
@@ -40,7 +40,7 @@ So far, the game sounds quite simple but there is a small twist that makes it mu
 
 To demonstrate the uncertainty that the stacking mechanic adds, let's consider the following scenario; the green camel needs to move one spot to cross the finish line. To win, all the green camel needs is the green die to pop out of the pyramid when a player decides to roll. The blue camel is behind the green camel and needs to move 4 slots to win the race. Now, on the dice, the highest number is 3, so the blue camel can't move 4 slots by rolling the die alone, but what can happen is, the blue die comes out of the pyramid first showing a 3 which puts the blue camel on top of the green camel and also in the lead. After this, regardless of what the green die shows when rolled, the green camel carries the blue camel over the finish line, making the blue camel the winner of the race.
 
-![Image showing the dice and dice pyramid]({{ site.baseurl }}/images/camel-up-dice-pyramid.jpg "Dice and Dice Pyramid")
+![Image showing the dice and dice pyramid]({{ site.baseurl }}/assets/images/camel-up-dice-pyramid.jpg "Dice and Dice Pyramid")
 _Image showing the dice and dice pyramid_
 
 Camel Up is a great gateway game to introduce new players to board games as the rules are simple and easy to pick up. Most players would only need to play once to understand how the game works. As you play more games, you will start improving your strategy and making less bad or risky bets, but even though strategy plays an important role and can change the final outcome of a game, you cannot avoid the factor of luck. This however, is not a bad thing. The factor of luck and uncertainty is what makes Camel Up extremely fun for both adults and children. If you are looking for a game where the most skilled player always wins, you should look elsewhere.
@@ -53,17 +53,17 @@ If you have read any of my previous posts, you are aware that the biggest proble
 
 The only action that has hidden information is placing a bet on race winner or loser. The player has to choose one card that shows the color of the camel they want to bet on and put it face down on the winner or loser pile. The good news here is, there are only five cards for the five different colors, so the blind player can simply ask a sighted player to arrange the cards in the order they want. Memorizing the order shouldn't be too difficult since the number of cards is quite low, and once you play a card (place a bet) you can't get it back, so there is no danger of mixing the cards up.
 
-![Image showing the 5 cards used for race winner or loser bets]({{ site.baseurl }}/images/camel-up-cards.jpg "Race Bet Cards")
+![Image showing the 5 cards used for race winner or loser bets]({{ site.baseurl }}/assets/images/camel-up-cards.jpg "Race Bet Cards")
 _Image showing the 5 cards used for race winner or loser bets_
 
 After overcoming this problem, the rest of the information in the game is public and the blind player can simply ask about the state of the game. If a blind player is present, the sighted players should announce the action they are taking just to make it easier for the blind player to follow the game. If the blind player happens to be shy, they may not want to repeatedly ask the players about what action they took. 
 
-![Image showing camels on the race track]({{ site.baseurl }}/images/camel-up-camels.jpg "Camels on Race Track")
+![Image showing camels on the race track]({{ site.baseurl }}/assets/images/camel-up-camels.jpg "Camels on Race Track")
 _Image showing camels on the race track_
 
 The numbers on the race track are very helpful for blind players to visualize where the camels are located along the track and how far they are from the finish line. The camel positions can change often during the race and if the blind player loses track of the current positioning, it only takes sighted players a couple of seconds to update the blind player on the current game state. It is also very easy to keep track of how much money one currently has since the money tokens can be distinguished by touch as different values have different sizes. 
 
-![Image showing money tokens for 1, 5, 10, and 20 Egyptian Pounds]({{ site.baseurl }}/images/camel-up-money.jpg "Camel Up Money Tokens")
+![Image showing money tokens for 1, 5, 10, and 20 Egyptian Pounds]({{ site.baseurl }}/assets/images/camel-up-money.jpg "Camel Up Money Tokens")
 _Image showing money tokens for 1, 5, 10, and 20 Egyptian Pounds_
 
 

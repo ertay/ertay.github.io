@@ -9,7 +9,7 @@ Since this topic ended up being a bit long, I decided to split it into two parts
 
 - Part 1 - Why I had to stop playing video games
 
-- [Part 2 - Discovering a world that lives on a tabletop](https://sightless.fun/From-Ones-and-Zeroes-to-Cardboard-Part-2)
+- [Part 2 - Discovering a world that lives on a tabletop]({{ site.baseurl }}/From-Ones-and-Zeroes-to-Cardboard-Part-2)
 
 In this first part, I will talk about how RP has affected the video games I could play. As time passed, the number of games dwindled, but there was a point in time where I could play anything and everything out there.
 

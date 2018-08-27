@@ -11,7 +11,7 @@ Welcome back to the second post of the 'Board Games You Can Play Blind' series! 
 
 Similar to the [first post]({{ site.baseurl }}/Pandemic-Board-Games-You-Can-Play-Blind/) of this series, we will start with a brief overview of the game and the rules. Then, we will have to switch gears becuse unlike _Pandemic_, _Secret Hitler_ has hidden information, so we will analyse the visual accessibility problems that are introduced as a result. We will then finish with my solution to problems. 
 
-![Image showing production copy of Secret Hitler]({{ site.baseurl }}/images/SecretHitler-Production.jpg "Secret Hitler Production Copy")
+![Image showing production copy of Secret Hitler]({{ site.baseurl }}/assets/images/SecretHitler-Production.jpg "Secret Hitler Production Copy")
 _Image showing production copy of Secret Hitler_
 
 ## Game Overview
@@ -36,7 +36,7 @@ Depending on the number of players, there are different abilities that activate 
 
 The game usually lasts around 45 min, but they can also last over an hour if the players are experienced in the game, so discussions and accusations may last longer. At the bottom of this post, you can find a few links to the full game rules and a gameplay video.
 
-![Image showing my personal copy of the print and play version]({{ site.baseurl }}/images/secret_hitler_pnp.jpg "Secret Hitler Print and Play")
+![Image showing my personal copy of the print and play version]({{ site.baseurl }}/assets/assets/images/secret_hitler_pnp.jpg "Secret Hitler Print and Play")
 _Image showing my personal copy of the print and play version_
 
 ## Visual Accessibility Problems
@@ -53,7 +53,7 @@ There are some people that would think that playing blind is a huge disadvantage
 
 After a couple stressful rounds as a fascist, I had to come up with a solution to the role assignment and fascist reveal phase. The solution had to be simple and not extend the duration of the role assignment by too much. Since I'm a software engineer, I came up with a smartphone app idea. After a few hours of prototyping, _Board Game Aid_ was born (working title, feel free to suggest a better name).
 
-![Image shows two screenshots of the prototype app, edit players page and role assignment page]({{ site.baseurl }}/images/BoardGameAid-Screenshot-1.jpg "Board Game Aid Prototype Screenshots 1")
+![Image shows two screenshots of the prototype app, edit players page and role assignment page]({{ site.baseurl }}/assets/images/BoardGameAid-Screenshot-1.jpg "Board Game Aid Prototype Screenshots 1")
 _Image showing my personal copImage shows two screenshots of the prototype app, edit players page and role assignment page_
 
 The main purpose of this app is to randomly assign player roles. Each player looks at their own role and then passes the phone to the next player. If a player gets the fascist role, they can also see the names of other fascist teammates and the name of the player that got Hitler's role. In the initial version, I only  increased the text size, slapped on a dark theme because I can still read light text on a dark background, and brought the app with me for our next meeting with my friends.
@@ -64,13 +64,13 @@ To fix this, I simply added a countdown timer that starts ticking after you clic
 
 When the last player sees their role, you can then use the app for the 'Party Inspection' ability that I talked about above, where a player can find out which party another player belongs to.
 
-![Image shows two screenshots of the prototype app, fascist role assignment and party inspection]({{ site.baseurl }}/images/BoardGameAid-Screenshot-2.jpg "Board Game Aid Prototype Screenshots 2")
+![Image shows two screenshots of the prototype app, fascist role assignment and party inspection]({{ site.baseurl }}/assets/images/BoardGameAid-Screenshot-2.jpg "Board Game Aid Prototype Screenshots 2")
 _Image shows two screenshots of the prototype app, fascist role assignment and party inspection_
 
 
 For the second problem with the policy cards, I had a much simpler fix: tape. Since there only are six liberal policy cards, I just marked the insides of the cards with a little piece of tape. Now, I could easily distinguish between a liberal and a fascist policy card by touch. For those of you who can read braille, you could print out braille labels to put on the policy cards, but since it's only a choice of two different types of cards, a simple tactile marker is more than enough.
 
-![Image shows a liberal policy marked with a piece of tape and an unmarked fascist policy card]({{ site.baseurl }}/images/SecretHitlerPolicy-Tape.jpg "Secret Hitler Accessible Policies")
+![Image shows a liberal policy marked with a piece of tape and an unmarked fascist policy card]({{ site.baseurl }}/assets/images/SecretHitlerPolicy-Tape.jpg "Secret Hitler Accessible Policies")
 _Image shows a liberal policy marked with a piece of tape and an unmarked fascist policy card_
 
 With these solutions, the game becomes fully accessible for the blind and visually impaired. If I didn't know how to code, I don't know if I would've been able to find a better alternative that does not involve having an extra person around to do the role assignment and reveal phase. If you happen to have other creative solutions, feel free to share them in the comments below!

@@ -11,7 +11,7 @@ Welcome to the first post in my 'Board Games You Can Play Blind' series! We will
 
 ## Game Overview
 
-![Image showing all the Pandemic game components]({{ site.baseurl }}/images/pandemic-2013-display.jpg "Pandemic Unboxed")
+![Image showing all the Pandemic game components]({{ site.baseurl }}/assets/images/pandemic-2013-display.jpg "Pandemic Unboxed")
 _Image showing all the Pandemic game components_
 
 * Game name: **Pandemic**
@@ -34,7 +34,7 @@ If you are blind or severely visually impaired, you will require a sighted perso
 
 If you've read my intro posts, you might say "But you said you still have some vision left, didn't you?" and you would be right, however, since I can't read the names of the cities on the cards, see where exactly the disease cubes and player pawns are located, the sight I still have does not really help me. So when playing Pandemic, I am blind.
 
-![Image shows a close up of the player cards with other components in the background]({{ site.baseurl }}/images/pandemic-2013-closeup.jpg "Close Up Pandemic Player Deck")
+![Image shows a close up of the player cards with other components in the background]({{ site.baseurl }}/assets/images/pandemic-2013-closeup.jpg "Close Up Pandemic Player Deck")
 _Image shows a close up of the player cards with other components in the background_
 
 Even though I can't see much, I can still help during the initial set up of the game, as long as another player tells me what I have in hand. In Pandemic, this mostly means shuffling and dealing cards. Once all the infection cards are shuffled, player cards are dealt and reshuffled with the added Epidemic cards, and one role card is dealt to each player, I have to sit back for the next phase in the set up. A sighted player then draws several infection cards and starts with the initial placement of disease cubes on the world map. The infection cards contain the city name and color of the disease cubes that need to be placed. They also put a few other markers on the board that mark the number of outbreaks, infection rate,  etc. 

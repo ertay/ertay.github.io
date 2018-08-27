@@ -7,7 +7,7 @@ In the second part of my transition from video to board games, I will talk about
 
 If you haven't read the first part of this topic, you can follow the link below to check it out:
 
-- [Part 1 - Why I had to stop playing video games](https://sightless.fun/From-Ones-and-Zeroes-to-Cardboard-Part-1)
+- [Part 1 - Why I had to stop playing video games]({{ site.baseurl }}/From-Ones-and-Zeroes-to-Cardboard-Part-1)
 
 - Part 2 - Discovering a world that lives on a tabletop
 
@@ -23,7 +23,7 @@ I grabbed a chair and asked my brother to turn the speakers on so I could listen
 
 After watching a couple of rounds, I started tuning in to TotalBiscuit's stream whenever they played _Secret Hitler_. I also researched to see if I could buy the physical version of this game, and found that the [Kickstarter](https://www.kickstarter.com/projects/maxtemkin/secret-hitler){:target="_blank"} funding was over, but to my pleasant surprise I found that the developers provided a free print-and-play PDF version of the game. The next day, my brother went to the printing shop to get it printed.
 
-![Image showing the colored print and play version of Secret Hitler]({{ site.baseurl }}/images/secret_hitler_pnp.jpg "Secret Hitler Print and Play")
+![Image showing the colored print and play version of Secret Hitler]({{ site.baseurl }}/assets/images/secret_hitler_pnp.jpg "Secret Hitler Print and Play")
 _Image showing the colored print and play version of Secret Hitler_
 
 Now that I had the game, I started reaching out to friends and family trying to schedule a gaming night. Long story short, everyone we introduced the game to loved it, and more importantly I had found a new group activity I really enjoyed!
