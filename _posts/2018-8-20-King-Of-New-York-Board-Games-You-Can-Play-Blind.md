@@ -11,7 +11,7 @@ In today's episode of 'Board Games You Can Play Blind' we will talk about a game
 
 The first thing we'll do is go through the game overview and briefly talk about the game rules. We will then dedicate a section to the visual accessibility of _King Of New York_ and analyze the difficulties blind players may experience.
 
-![Image showing all the game components]({{ site.baseurl }}/images/kony-full.jpg "King Of New York Components")
+![Image showing all the game components]({{ site.baseurl }}/assets/images/kony-full.jpg "King Of New York Components")
 _Image showing all the game components_
 
 ## Game Overview
@@ -30,7 +30,7 @@ At the beginning of the game, each player chooses a borough to start in. They ca
 
 The main driver of the player actions are the dice. On a player's turn, six dice can be rolled up to three times (just like Yahtzee if you are familiar with the classic game). Depending on what the player has rolled, they can attack other monsters, heal themselves, get damaged by the military units, collect energy cubes which represent money to buy power-ups, destroy a building or a military unit, or simply collect victory points. After the first roll, the player can choose to keep some of the dice they like and continue rolling the rest. When they are finished rolling, they resolve the actions on their dice.
 
-![Image showing the actions on the dice]({{ site.baseurl }}/images/kony-dice.jpg "King Of New York Dice")
+![Image showing the actions on the dice]({{ site.baseurl }}/assets/images/kony-dice.jpg "King Of New York Dice")
 _Image showing the actions on the dice_
 
 Let's briefly explain how each action works:
@@ -83,24 +83,24 @@ When a blind player plays a board game, depending on the amount of information t
 
 The first thing I want to talk about in this section, which also happen to be my favorite components, are the dice. The dice in King Of New York are very large and they are indented. You can see the size difference between a _Camel Up_ die, a generic 16mm die, and King Of New York die.
 
-![Image showing large King Of New York die next to a Camel Up die and a generic 16mm die]({{ site.baseurl }}/images/kony-dice-comparison.jpg "King Of New York Dice Comparison")
+![Image showing large King Of New York die next to a Camel Up die and a generic 16mm die]({{ site.baseurl }}/assets/images/kony-dice-comparison.jpg "King Of New York Dice Comparison")
 _Image showing large King Of New York die next to a Camel Up die and a generic 16mm die_
 
 The symbols on the dice are well contrasted and quite large. For visually impaired people that still have some sight left, this is a great thing. Blind players may also figure out what they have rolled by touch, but usually another player just telling them is much faster. 
 
 The monsters are also quite large, and if you have some sight left in your eyes, you may be able to distinguish one from another to see where they are currently located on the map. The monster boards where you track your health and Victory Points however can be a little more problematic. Even though I have some sight left, I require another player to move the circular dials for me. If you don't trust your fellow player, it is a good idea to memorize the current status of your monster!
 
-![Image showing monsters on their stands]({{ site.baseurl }}/images/kony-monsters.jpg "King Of New York Monsters")
+![Image showing monsters on their stands]({{ site.baseurl }}/assets/images/kony-monsters.jpg "King Of New York Monsters")
 _Image showing monsters on their stands_
 
 Next, the double sided tiles the represent a building on one side and a military unit on the other are small which I can't tell what they say unless there is good directional light. A blind player can be useful when shuffling them at the beginning of the game. What we do is, I shuffle the tiles, grab 3 at random and ask another player to place them in a borough of my choice. Then I keep drawing stacks of 3 tiles which another player places in a clockwise order in all boroughs. The sighted player ensures that the buildings face up before placing the stacks.
 
-![Image showing building and military tiles]({{ site.baseurl }}/images/kony-tiles.jpg "King Of New York Tiles")
+![Image showing building and military tiles]({{ site.baseurl }}/assets/images/kony-tiles.jpg "King Of New York Tiles")
 _Image showing building and military tiles_
 
 The energy cubes which represent money are small, but since they are of a single type you can easily count them by touch. The power-up cards are of a decent size and the text has fair contrast but in the games I've played it still is faster for a sighted player who is sitting close to the cards to read them out loud for everyone around the table. There also are a few tokens that can be used in the game with a certain power-up card. These are simply used as counters, so they do not present an accessibility problem.
 
-![Image showing power-up cards]({{ site.baseurl }}/images/kony-cards.jpg "King Of New York Cards")
+![Image showing power-up cards]({{ site.baseurl }}/assets/images/kony-cards.jpg "King Of New York Cards")
 _Image showing power-up cards_
 
 ## Conclusion
