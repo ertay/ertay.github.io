@@ -61,20 +61,8 @@ layout: default
       {% if page.share %}{% include social-share.html %}{% endif %}
 
       {% include post_pagination.html %}
-
-      <h4>Stay up to date by subscribing to the newsletter!!</h4>
-
-        <form
-    action="https://buttondown.email/api/emails/embed-subscribe/sightlessfun"
-    method="post"
-    target="popupwindow"
-    onsubmit="window.open('https://buttondown.email/sightlessfun', 'popupwindow')"
-    >
-    <label for="bd-email">Enter your email</label>
-    <input type="email" name="email" id="bd-email" placeholder="name@example.com">
-    <input type="hidden" value="1" name="embed"/>
-    <input class="btn btn--primary" type="submit" value="Subscribe" />
-  </form>
+      
+      {% include newsletter.html %}            
 </div>
 
     {% if jekyll.environment == 'production' and site.comments.provider and page.comments %}
