@@ -2,6 +2,7 @@
 title: "King Of New York - Board Games You Can Play Blind"
 permalink: /King-Of-New-York-Board-Games-You-Can-Play-Blind/
 categories: BoardGames
+toc: true
 ---
 New York City, monsters' favorite spot to play dominoes and hold their regular 'Fight Club' events. Tonight, the giant monsters appear to be disturbed as there is a new strange beast in town. A kaiju that does not seem to have eyes, yet can sense every tiny change in the living world around it! Can the blind creature become the King Of New York?
 
