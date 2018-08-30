@@ -9,3 +9,7 @@ This blog mostly covers my journey in finding fun things to do as my vision dete
 ### Contact me
 
 You can get in touch with me via [Twitter](http://twitter.com/ertaysh){:target="_blank"} or email at sightlessfun@outlook.com.
+
+### Special Thanks
+
+We'd like to thank Abdullah Alioski for designing our logo. You can find him on [Tumblr](http://abdullahalioski.tumblr.com/){:target="_blank"} or [LinkedIn](https://www.linkedin.com/in/abdullah-alioski-54b55687/){:target="_blank"}.
