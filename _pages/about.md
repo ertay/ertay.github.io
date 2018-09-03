@@ -2,13 +2,15 @@
 title: About
 permalink: /about/
 ---
-Hi, there! I'm Ertay and I hope you will find the information on this blog interesting and helpful.
+Hi, there! Welcome to the site. We hope you will find the information on this blog interesting and helpful.
 
-This blog mostly covers my journey in finding fun things to do as my vision deteriorates and I can't do some of the things that I could do before. If you are interested, check out the [introduction post]({{ site.baseurl }}/An-Introduction) in this blog for a more detailed background.
+This blog's main focus is visual accessibility in board games. We analyze various tabletop games and try to come up with solutions that would make them more accessible for the blind and visually visually impaired. 
 
-### Contact me
+If you want to find out more about our backgrounds, check out [Ertay's introduction here]({{ site.baseurl }}/An-Introduction) and [Jed's Introduction here]({{ site.baseurl }}/General/introducing-a-new-contributor).
 
-You can get in touch with me via [Twitter](http://twitter.com/ertaysh){:target="_blank"} or email at sightlessfun@outlook.com.
+### Contact Us
+
+You can get in touch with us via [Twitter](http://twitter.com/SightlessFun){:target="_blank"} or email at sightlessfun@outlook.com.
 
 ### Special Thanks
 
