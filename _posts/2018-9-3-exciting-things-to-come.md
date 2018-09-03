@@ -18,6 +18,6 @@ I also updated the theme of the site, so if you find any bugs or issues, please 
 
 Thanks to this blog, I met some amazing people who have been in this hobby for much longer than me. Jed was one of them. After getting to know him some more, I noticed that we share the same passion for the hobby. Because of this, I decided to invite him to the blog as a contributor.
 
-Jed has been in the hobby for nearly 10 years and has struggled with the same vision difficulties as I have, so I am very excited to see what he can bring to the blog. You can read his introduction post by clicking [here]({{ site.baseurl }}/General/introducing-a-new-contributor).
+Jed has been in the hobby for nearly 10 years and has struggled with the same vision difficulties as I have, so I am very excited to see what he can bring to the blog. You can read his introduction post by clicking [here]({{ site.baseurl }}/general/introducing-a-new-contributor).
 
 Stay tuned for some interesting content in September!

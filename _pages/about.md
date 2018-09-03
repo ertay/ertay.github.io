@@ -6,7 +6,7 @@ Hi, there! Welcome to the site. We hope you will find the information on this bl
 
 This blog's main focus is visual accessibility in board games. We analyze various tabletop games and try to come up with solutions that would make them more accessible for the blind and visually visually impaired. 
 
-If you want to find out more about our backgrounds, check out [Ertay's introduction here]({{ site.baseurl }}/An-Introduction) and [Jed's Introduction here]({{ site.baseurl }}/General/introducing-a-new-contributor).
+If you want to find out more about our backgrounds, check out [Ertay's introduction here]({{ site.baseurl }}/An-Introduction) and [Jed's Introduction here]({{ site.baseurl }}/general/introducing-a-new-contributor).
 
 ### Contact Us
 
