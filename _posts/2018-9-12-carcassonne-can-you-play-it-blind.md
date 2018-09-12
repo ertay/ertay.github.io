@@ -124,7 +124,7 @@ This solution to improve to make Carcassonne fully accessible is of course compl
 
 Carcassonne is a thoroughly enjoyable game, but it is a game where vision plays a big role in your ability to play the game. Depending on your level of vision impairment, good lighting, helpful players, and your phone camera may be more than enough for you to play and enjoy the game.
 
-For people with more significant levels of vision impairment or who are totally blind however the game is not accessible. Though I think it is theoretically possible to modify the game to add a tactile element to it, which modification would be pretty extensive and you’d likely need to be quite dedicated to undertake the task.
+For people with more significant levels of vision impairment or who are totally blind however the game is not accessible. Though I think it is theoretically possible to modify the game to add a tactile element to it, such modification would be pretty extensive and you’d likely need to be quite dedicated to undertake the task.
 
 Finally, I didn’t have a place to say as much, but I have a minor gripe about the second edition unrelated to accessibility. The game doesn’t come with the 50/100 tiles that the first edition did. These tiles were awarded for players who had travelled around the score track (which goes from 0 to 49), showing 50 on one side and 100 on the other. I think they were a help keeping track of score so it is a shame they omitted them.
 
