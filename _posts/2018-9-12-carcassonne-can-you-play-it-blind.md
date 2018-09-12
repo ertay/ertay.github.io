@@ -1,5 +1,5 @@
 ---
-title: "Carcassonne – Can You Play It Blind?"
+title: "Carcassonne – Visual Accessibility Analysis"
 categories: BoardGames
 author: Jed Alexander
 ---
