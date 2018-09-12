@@ -46,7 +46,8 @@ The second edition also includes a new feature, the garden, which consists of a 
 The only placement rules for tiles, as mentioned, is that features match up. Roads can only connect to other roads, city sections to other city sections, and fields to more field. 
 
 ![Image showing a tile placement example The straight road can’t be placed in the bottom left corner, but the intersection can be]({{ site.baseurl }}/assets/images/carcasonne_placement_example.jpg "Carcassonne Placement Example")
-_ Image shows a tile placement example. The straight road can’t be placed in the bottom left corner, but the intersection can be. _
+
+_Image shows a tile placement example. The straight road can’t be placed in the bottom left corner, but the intersection can be._
 
 Once the tile is placed, the player placing the tile has the option of placing one of their meeples on one of the features present on the tile, thus claiming the feature. Meeples remain on features until scored, and a player’s supply of meeples is limited so they are a resource to be managed carefully. In the second edition of the game, each player has seven meeples (plus one which is placed on the score tracker) and an abbot meeple. The game’s various expansions add other meeples, such as the builder, and the pig. 
 
