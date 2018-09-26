@@ -15,7 +15,7 @@ Social deduction and bluffing games inherently lend themselves to the blind or v
 
 Note that my discussion will only cover the base game. There is an expansion for Sheriff of Nottingham available (Merry Men), but unfortunately I neither own nor have played it.
 
-![Image showing the game components of Sheriff of Nottingham]({{ site.baseurl }}/assets/images/son_game_components.jpg "Sherri fo Nottingham Components")
+![Image shows the game components of Sheriff of Nottingham]({{ site.baseurl }}/assets/images/son_game_components.jpg "Sherri fo Nottingham Components")
 _Image showing the game components of Sheriff of Nottingham_
 
 ## Game Overview
