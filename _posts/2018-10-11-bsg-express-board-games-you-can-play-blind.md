@@ -1,7 +1,8 @@
 ---
 title: "Battlestar Galactica Express - Board Games You Can Play Blind"
 categories: BoardGames
-og_image: /assets/images/bsge_game_components.jpg
+header:
+    og_image: /assets/images/bsge_game_components.jpg
 ---
 The Colonial Fleet is under constant threat from both external attacks as well as cybernetic spies planted deep within the humans. Admiral William Adama is doing everything in his power to prevent the end of mankind by their own creation, the Cylons.
 
