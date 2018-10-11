@@ -26,9 +26,9 @@ _Image showing the game components of BSG Express_
 
 * Playing time: **60 minutes**
 
-Before we start, I will briefly explain what the word _Express_ means in the game's title. If you are unfamiliar, there is a highly  popular, out of print game called _Battlestar Galactica_, which was published by _Fantasy Flight Games_. This, original version of the game is much more complex and also lasts 3 hours or more to play. BSG Express takes the best parts of the original game and compresses them down to be enjoyed in a single hour. 
+Before we start, I will briefly explain what the word _Express_ means in the game's title. If you are unfamiliar, there is a highly popular, out of print game called _Battlestar Galactica_, which was published by _Fantasy Flight Games_. This, original version of the game is much more complex and also lasts 3 hours or more to play. BSG Express takes the best parts of the original game and compresses them down to be enjoyed in a single hour. 
 
-In BSG Express, there are two teams: Humans and Cylons. Humans have a majority (3 humans in a 5 player game), but they have a harder win condition. The only way for the humans to win is to  'jump' the fleet past the number '6' that is shown in the 'jump distance' tracker. To trigger a jump, you need to charge the jump drive 3 times. If you are not familiar with the tv show but have seen a Star Wars movie, this translates to charging the hyperspace drive and then jumping to light speed. Simply put, the humans win if they manage to escape from the frakking Cylons.
+In BSG Express, there are two teams: Humans and Cylons. Humans have a majority (3 humans in a 5 player game), but they have a harder win condition. The only way for the humans to win is to 'jump' the fleet past the number '6' that is shown in the 'jump distance' tracker. To trigger a jump, you need to charge the jump drive 3 times. If you are not familiar with the tv show but have seen a Star Wars movie, this translates to charging the hyperspace drive and then jumping to light speed. Simply put, the humans win if they manage to escape from the frakking Cylons.
 
 On the other hand, the Cylons win if one of the following happens: 
 
@@ -49,7 +49,7 @@ An interesting twist in the game is that around halfway through (when the fleet 
 
 There also is a possibility for all the players to be humans in the first round of dealing loyalty cards. At such an event, the game is technically a fully cooperative game, however, you can never trust anyone, so it is fun to see accusations during the whole game only to realize at the end that in the beginning, you were all trying to help the humans win.
 
-The main driver of the actions in BSG Express are dice. Each player has a total of four custom dice. Two of them are strong dice and are marked with blue borders, while the remaining two are weak dice and are marked with red borders. Whenever you roll the dice in the game, you do it in secret. Other players are not allowed to see what you have rolled, so each player  needs to have a screen. There are positive and negative numbers on the dice. The strong dice have the following six numbers: -2, -2, -1, -1, +2, and +4. The weak dice have -2, -2, -1, -1, +1, and +3.
+The main driver of the actions in BSG Express are dice. Each player has a total of four custom dice. Two of them are strong dice and are marked with blue borders, while the remaining two are weak dice and are marked with red borders. Whenever you roll the dice in the game, you do it in secret. Other players are not allowed to see what you have rolled, so each player needs to have a screen. There are positive and negative numbers on the dice. The strong dice have the following six numbers: -2, -2, -1, -1, +2, and +4. The weak dice have -2, -2, -1, -1, +1, and +3.
 
 When you roll your dice, you always need to submit at least one of them depending on the action. The submitted dice are then considered as 'spent' dice. So now you have less dice to roll. There are special parts in the game where you retrieve your dice. This will make more sense when we explain the actions.
 
@@ -64,15 +64,15 @@ A player's turn consists of multiple steps which can be narrowed down to: first 
 
 * **Retrieve spent dice** - The player retrieve all of their spent dice.
 
-* **Perform an action** - The player chooses an action to  perform, rolls their dice in secret, and submits the required amount of dice for that action. If they submit positive numbers, the action is successful. Otherwise, the action fails.
+* **Perform an action** - The player chooses an action to perform, rolls their dice in secret, and submits the required amount of dice for that action. If they submit positive numbers, the action is successful. Otherwise, the action fails.
 
-* **Roll crisis dice** - The player rolls the crisis dice in secret, chooses one and submits it. Then everyone votes whether they will participate in a 'skill check', which means rolling dice to get a sum equal  to or higher than the difficulty shown on the submitted crisis die to avert the crisis. Cylons may deliberately submit negative numbers to make sure the crisis is not averted. Players who do not participate in a skill check may retrieve a die (or two if they've spent all their dice).
+* **Roll crisis dice** - The player rolls the crisis dice in secret, chooses one and submits it. Then everyone votes whether they will participate in a 'skill check', which means rolling dice to get a sum equal to or higher than the difficulty shown on the submitted crisis die to avert the crisis. Cylons may deliberately submit negative numbers to make sure the crisis is not averted. Players who do not participate in a skill check may retrieve a die (or two if they've spent all their dice).
 
 * **Resolve crisis die** - If the players fail to avert the crisis, the consequences need to be applied. For example, if the crisis was an attack on Galactica, and the consequence shows a value of 1, a random damage marker is put on Galactica.
 
 * **Prepare to jump** (conditional) - If the crisis die has a 'target' icon, you move the 'prepare to jump' marker forward.
 
-* **Jump the fleet** (conditional) - If the 'prepare to jump' marker reaches the final, third position, the fleet jumps. The player that has the admiral token takes one weak and one strong die and rolls them in secret. They choose one die and move the jump distance marker forward by the number shown on the die. If the number is negative, the  marker still moves forward, but the admiral chooses whether to damage Galactica or demoralize a player. 
+* **Jump the fleet** (conditional) - If the 'prepare to jump' marker reaches the final, third position, the fleet jumps. The player that has the admiral token takes one weak and one strong die and rolls them in secret. They choose one die and move the jump distance marker forward by the number shown on the die. If the number is negative, the marker still moves forward, but the admiral chooses whether to damage Galactica or demoralize a player. 
 
 ![Image shows Image showing demoralized, Cylon Raider, Colonial ship, Galactica damage, and jump markers]({{ site.baseurl }}/assets/images/bsge_markers.jpg "BSG Express Markers")
 _Image showing demoralized, Cylon Raider, Colonial ship, Galactica damage, and jump markers_
@@ -87,7 +87,7 @@ Now that we covered the flow of a player's turn, let's take a look at the differ
 
 * Perform character action - The player can perform the special action that their character has. For example, Gaius Baltar can investigate another player's loyalty card.
 
-* Call a vote to brig / unbrig a player - Players can participate in a 'skill check' to put someone in the brig or release them if they are already in the brig. The difficulty of  this skill check is 4.
+* Call a vote to brig / unbrig a player - Players can participate in a 'skill check' to put someone in the brig or release them if they are already in the brig. The difficulty of this skill check is 4.
 
 * Prepare for jump - The player needs to submit 2 dice that have a positive sum. If successful, the next crisis die is treated as having a 'target' icon, even if it doesn't have one.
 
@@ -97,7 +97,7 @@ Now that we covered the flow of a player's turn, let's take a look at the differ
 
 The actions listed above may not all be available at all times. When Galactica is damaged, some of the actions may be unavailable until the damage of that section in the ship is repaired. For example, if the press room is damaged, you cannot boost the morale of a player, or if the weapons systems are damaged, you cannot destroy Cylon Raiders or rescue Colonial ships that are on the DRADIS board.
 
-When a player is demoralized, they are not able to retrieve all of their dice and they can only retrieve one die at the beginning of their turn. This is a huge disadvantage because  the only other way of retrieving dice is by not participating in a skill check (during the crisis phase or calling a vote to brig/unbrig someone). Players that are put in the brig also have very limited actions they can do. If the current Admiral is put in the brig, the next player in the chain of command becomes the new Admiral.
+When a player is demoralized, they are not able to retrieve all of their dice and they can only retrieve one die at the beginning of their turn. This is a huge disadvantage because the only other way of retrieving dice is by not participating in a skill check (during the crisis phase or calling a vote to brig/unbrig someone). Players that are put in the brig also have very limited actions they can do. If the current Admiral is put in the brig, the next player in the chain of command becomes the new Admiral.
 
 Problems for the humans start occurring when the human players roll badly and cannot complete their actions due to rolling negative numbers. If you look at the dice values I mentioned above, you will see that there is a higher chance of rolling negative numbers. This makes it easier for the Cylons to stay hidden and accuse other players of being Cylons due to the negative values they keep submitting. 
 
@@ -138,7 +138,7 @@ Since this is a print and play game, it's very easy to modify your components an
 
 As I said in the introduction, the published version of BSG Express is known as Dark Moon and has a different theme as well as a few modifications to the game's mechanics. I mainly want to make a few comments about the change with the crisis dice.
 
-Instead of using crisis dice, Dark Moon uses cards. In general, cards are less accessible than dice because if you are blind,  you either need to Braille label them, mark them in some way that will make sense to you, or use an OCR app like I do for the loyalty cards.
+Instead of using crisis dice, Dark Moon uses cards. In general, cards are less accessible than dice because if you are blind, you either need to Braille label them, mark them in some way that will make sense to you, or use an OCR app like I do for the loyalty cards.
 
 OCR apps can be good to use once or twice during a game, otherwise it can extend the game time by several minutes if you have to do it every time your turn comes. The speed and accuracy of the character recognition also depends on the contrast of the text on cards as well as how the text is stylized. I am not sure whether the crisis cards in Dark Moon have text, icons, or both. If you are planning to use an OCR approach, make sure the cards actually have text describing the crisis, otherwise you will need a different solution.
 
