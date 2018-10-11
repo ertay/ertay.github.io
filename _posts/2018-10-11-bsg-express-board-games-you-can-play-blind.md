@@ -150,6 +150,6 @@ BSG Express is a great mix of the cooperative and social deduction genres that u
 
 Even though the main driver of the game is hidden information (the dice rolls), it still manages to be very accessible due to the small number of dice and the fact that dice in general can be very accessible to the blind. When playing as a Cylon, not having to know who the other Cylon is, avoids the problems that other secret role games like _Secret Hitler_ or _The Resistance_ have. 
 
-I wouldn't recommend BSG Express (or Dark Moon) as a game to introduce someone new to the hobby as it has slightly more rules than the usual gateway game, but it is a great stepping stone to move to something slightly more complex. I hope you enjoyed this post and as always, if you have any questions or comments feel free to drop them below, or you can also reach me us [Twitter](https://twitter.com/sightlessfun) or via [email](mailto:sightlessfun@outlook.com).
+I wouldn't recommend BSG Express (or Dark Moon) as a game to introduce someone new to the hobby as it has slightly more rules than the usual gateway game, but it is a great stepping stone to move to something slightly more complex. I hope you enjoyed this post and as always, if you have any questions or comments feel free to drop them below, or you can also reach me us [Twitter](https://twitter.com/sightlessfun){:target="_blank"} or via [email](mailto:sightlessfun@outlook.com).
 
 _Special thanks to my brother, Alpay, for his patience and spending multiple hours cutting and gluing the game's components._
