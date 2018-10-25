@@ -88,6 +88,8 @@ _Image showing planets and ships_
 
 And on that note, there aren’t many places ships can be. You’ll only be focusing on a single element at a time – the warp, destiny deck turn over planet involved in the encounter, and hyperspace gate – so there’s only a small amount of information to ask for. Once an encounter is resolved, it’s not that important to know how many ships are where, just how many colonies players are on. Again, there is a tracker whose information a sighted player can easily relay.
 
+_**Update:** One of our readers noted that the latest _Fantasy Flight Games_ version of the game has translucent ships. This may be aesthetically pleasing, but makes the ships harder to tell apart, even for fully sighted people._
+
 Much of the game is player through discussion too. Inviting allies and brokering deals in particular. But even when cards are revealed and combat scores are calculated – it’s all public knowledge and can be done out loud. 
 
 The big challenge however comes from the cards, and Cosmic Encounter has a lot of them. I’m going to group them into two categories: the more accessible cards; and the less accessible cards.
