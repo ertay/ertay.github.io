@@ -18,6 +18,7 @@ Before getting started with the game overview, I’d like to be clear that I’l
 So with that clear, let’s get started.
 
 ![Image showing the game components of Cosmic Encounter]({{ site.baseurl }}/assets/images/ce_game_components.jpg "Cosmic Encounter Components")
+
 _Image showing the game components of Cosmic Encounter_
 
 ## Game Overview
