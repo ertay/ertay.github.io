@@ -5,4 +5,4 @@ permalink: /podcast/
 taxonomy: Podcast
 ---
 
-[<i class="fab fa-apple"></i> APPLE PODCASTS](https://itunes.apple.com/mk/podcast/sightless-fun/id1444482964){:target="_blank"}  <i class="fab fa-apple"></i>  GOOGLE PLAY  <i class="fab fa-apple"></i> SPOTIFY  <i class="fab fa-apple"></i> STITCHER
+<a class="btn btn--primary btn--small" href="https://itunes.apple.com/mk/podcast/sightless-fun/id1444482964" target="_blank"><i class="fab fa-apple"></i> APPLE PODCASTS</a>   <a class="btn btn--primary btn--small" href="https://play.google.com/music/listen#/ps/Ivsrbbudeo7drahtcldadffjk5u" target="_blank"><i class="fab fa-google-play"></i> GOOGLE PLAY</a>   <a class="btn btn--primary btn--small" href="https://open.spotify.com/show/31YkyisYrHFS6ATjwjqUFD?si=rhf8pPYWTEGFOJ3GK0tMRg" target="_blank"><i class="fab fa-spotify"></i> SPOTIFY</a>   <a class="btn btn--primary btn--small" href="https://www.stitcher.com/s?fid=333845&refid=stpr" target="_blank"><i class="fab fa-headphones"></i> STITCHER</a>
