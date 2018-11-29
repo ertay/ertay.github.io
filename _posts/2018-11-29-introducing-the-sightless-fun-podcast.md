@@ -29,6 +29,6 @@ This podcast wouldn't have been possible without some of the people listed below
 
 **Alpay Shashko** for editing our episodes. Even though this is the first time he's doing something like this, he's been doing a great job. I really appreciate the time he's put into making this project a reality.
 
-**[Ryan Peach](https://twitter.com/redmeepleryan){:target="_blank"}** and **Peter Bartram Hansen** for their detailed feedback, constructive criticism, and ideas how to move forward.
+**[Ryan Peach](https://twitter.com/redmeepleryan){:target="_blank"}** and **Peter Bartram Hansen** for their detailed feedback, constructive criticism, and ideas on how to move forward.
 
 The Macedonian band **[Fighting Windmills](https://fightingwindmillsmk.bandcamp.com){:target="_blank"}** for allowing us to use their music in our show. The name of the track that is in our intro is [Museum Of Legends and Lies](https://www.youtube.com/watch?v=z32kC9FliQo){:target="_blank"} (original name, Музеј на легенди и лаги).
