@@ -2,6 +2,7 @@
 title: "Secret Hitler - Board Games You Can Play Blind"
 categories: BoardGames
 permalink: /Secret-Hitler-Board-Games-You-Can-Play-Blind/
+last_modified_at: 2018-12-16T23:30:00+01:00
 ---
 It is the early 1930s in Germany. The fascist party is on the rise and they can be ruthless when it comes to completing their main goal: get Hitler, their cold-blooded leader, to power. How effective can you be at helping or stopping him as a blind politician? Let's find out...
 
@@ -96,6 +97,10 @@ Auf Wiedersehen!
 ### Resources
 
 Below you can find a link to the .apk of Board Game Aid, the PDF file for the print and play version that I am using, a PDF of the game rules, a gameplay video, and also a link to a _Harry Potter_ re-thame of the game, _Secret Voldemort_. If you want to play the game, but the theme is off-putting for your group, _Secret Voldemort_ is a great alternative.
+
+**Update 16/12/2018:** If you enjoyed this post, you can follow the link below to listen to our first episode of our podcast where we talk about Secret Hitler, the helper app, as well as how smartphone apps can help make board games more accessible to the blind and visually impaired.
+
+- Podcast Episode: Secret Hitler & Helper Apps - [Link]({{ site.baseurl }}/podcast/episode-1-secret-hitler-and-helper-apps)
 
 - Android App Package: Board Game Aid Prototype - [Link](https://1drv.ms/u/s!As0NUJnxyVaqktUujLwTlUZ2aT6uvw){:target="_blank"}
 
