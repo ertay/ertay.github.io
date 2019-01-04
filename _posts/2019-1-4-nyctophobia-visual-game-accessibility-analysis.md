@@ -1,6 +1,7 @@
 ---
 title: "Nyctophobia - Visual Accessibility Analysis"
 categories: BoardGames
+permalink: /boardgames/nyctophobia-game-visual-accessibility-analysis/
 header:
     og_image: /assets/images/nyctophobia-components.jpg
 ---
