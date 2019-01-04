@@ -1,6 +1,8 @@
 ---
 title: "Nyctophobia - Visual Accessibility Analysis"
 categories: BoardGames
+header:
+    og_image: /assets/images/nyctophobia-components.jpg
 ---
 Are you afraid of the dark? Nyctophobia is a unique game where sighted players get to experience what it is like to play a board game blind.
 
