@@ -2,6 +2,7 @@
 title: "Analyzing The Accessibility Of Digital Manuals For Board Games"
 categories: BoardGames
 excerpt: "An analysis of the current state of PDF rulebook accessibility and screen reader support."
+last_modified_at: 2019-2-6T13:30:00+01:00
 ---
 ## Introduction
 
@@ -67,7 +68,9 @@ The main drawback here is that there are no graphics, however that shouldn't be 
 
 The developer of the site is not aware that a project like this can be very useful to the blind and I tried contacting him to ask him to do some minor fixes to the HTML of the site so that it is even more accessible to screen readers. Right now, the site does not use proper 'heading' tags to mark different headings, though at the moment there is a hyperlinked table of contents at the beginning of each rulebook to help with navigation. 
 
-If you feel like contributing to the site by adding a manual that is not there, you can check this [page](https://rulebook.io/how-to-help){:target="_blank"}.
+**Update 6/Feb/2019:** After getting in touch with the developer, he told me that he was working on fixing some of the HTML problems. He has now published those fixes on the site and the rulebooks can be easily navigated with a screen reader using the headings for different sections.
+
+If you feel like contributing to the site by adding a manual that is not there, you can check this [page](https://rulebook.io/add-content){:target="_blank"}.
 
 ### How To Play Videos
 
