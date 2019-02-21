@@ -4,7 +4,7 @@ categories: Podcast
 ---
 In this episode, Ertay talks to his first guest, Richard Canning, about teaching modern board games to the elderly. Richard is a veteran in the hobby who is very passionate about the teaching process and he shares the most common challenges he needs to deal with, as well as advice on how others can become better at introducing board games to the older generations.
 
-If you want to get in touch with Richard Canning, you can email him via richard@elindal.net. He can also be found on BoardGameGeek under the [Bremic username].(https://boardgamegeek.com/user/Bremic){:target="_blank"}
+If you want to get in touch with Richard Canning, you can email him via richard@elindal.net. He can also be found on BoardGameGeek under the [Bremic username](https://boardgamegeek.com/user/Bremic){:target="_blank"}
 
 {% include podcast_icons.html %}
 
