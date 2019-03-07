@@ -10,7 +10,8 @@ You can contact Ryan Peach via redmeepleryan@gmail.com and find him on [Twitter,
 
 <iframe src="https://pinecast.com/player/b43b7f3e-e872-462e-a358-1b2e8622756d?theme=minimal" seamless height="60" style="border:0" class="pinecast-embed" frameborder="0" width="100%"></iframe>
 
-### Time stamps
+### 
+Time stamps
 
 - Ryan's background, 00:50
 - Introduction to modern board games, 05:19
@@ -21,7 +22,7 @@ You can contact Ryan Peach via redmeepleryan@gmail.com and find him on [Twitter,
 - Battlestar Galactica, favorite game he can't play anymore,  21:48
 - Board Game modifications, 24:17
 - Accessibility improvements in the past few years, 29:40
-- Recommendations for board game publishers, 32L48
+- Recommendations for board game publishers, 32:48
 - Games Ryan would play if he got his sight back, 35:57
 - Advice for other blind people interested in the hobby, 37:18
 - Advice for sighted players, 39:13
