@@ -10,8 +10,7 @@ You can contact Ryan Peach via redmeepleryan@gmail.com and find him on [Twitter,
 
 <iframe src="https://pinecast.com/player/b43b7f3e-e872-462e-a358-1b2e8622756d?theme=minimal" seamless height="60" style="border:0" class="pinecast-embed" frameborder="0" width="100%"></iframe>
 
-### 
-Time stamps
+### Time stamps
 
 - Ryan's background, 00:50
 - Introduction to modern board games, 05:19
