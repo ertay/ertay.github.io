@@ -1,6 +1,7 @@
 ---
 title: "Exploring A Blind Player's Challenges Of Identifying Game Components"
 categories: BoardGames
+last_modified_at: 2019-3-21T14:00:00+01:00
 ---
 One of the most common accessibility problems when playing board or card games with blind and visually impaired people is game component identification such as cards or tiles. Therefore, most modifications that are applied to the game components aim to help with their identification. In this post, we are going to explore how a simple task like identifying game components can put a blind player at a disadvantage because they need to spend extra brainpower for such a task. I will provide specific examples of games where I have noticed that component identification is affecting my overall performance in a competitive game. 
 
@@ -40,7 +41,7 @@ Braille is much more effective than my method of tape markers. If we consider an
 
 Unfortunately, this can still be a challenge even with Braille. Last week I recorded episode 8 for the podcast with a blind gamer that brailles all of her games and I got the chance to ask her about this. For more complex games where there is a high number of cards with plenty of information, you cannot braille everything on the card itself. One drawback of Braille is also the space it requires compared to ordinary text. So you are still required to abbreviate things and either remember them or create reference tables. Cosmic Encounter can be a good example with plenty of text on cards which are required to be hidden information.
 
-If you're interested in the challenges of brailling games, Episode 8 will be published in the second half of March.
+If you're interested in the challenges of brailling games, check out [Episode 8 of the Sightless Fun podcast]({{ site.baseurl }}/podcast/episode-8-brailling-board-games-with-nancy-feldman/).
 
 ## Conclusion
 
