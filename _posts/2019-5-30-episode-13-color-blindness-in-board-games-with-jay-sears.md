@@ -4,7 +4,11 @@ categories: Podcast
 ---
 In this episode, Ertay is joined by Jay Sears from Pixy Games and they talk about color blindness in the hobby. Jay talks about the misconceptions of being colorblind and also provides some tips to game designers and publishers on how they can avoid the most common pitfalls when it comes to designing colorblind accessible board games.
 
-Time Stamps
+{% include podcast_icons.html %}
+
+<iframe src="https://pinecast.com/player/62720e31-1b4c-4ec9-a8ba-10478dbb8449?theme=minimal" seamless height="60" style="border:0" class="pinecast-embed" frameborder="0" width="100%"></iframe>
+
+### Time Stamps
 
 - Jay's background, 01:21
 - Jay talks about his color blindness, 03:56
@@ -22,7 +26,7 @@ Time Stamps
 - Board Games with good color blindness accessibility, 39:22
 - Final thoughts, 43:32
 
-Links
+### Links
 
 - [Pixy Games](http://pixygames.co.uk){:target="_blank"}
 - [Jay's blog post about color blindness](https://pixygamesuk.blogspot.com/2019/04/colour-blindness-guide-for-board-game.html){:target="_blank"}
