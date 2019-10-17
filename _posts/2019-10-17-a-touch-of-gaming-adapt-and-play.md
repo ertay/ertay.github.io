@@ -16,7 +16,7 @@ In the second A Touch Of Gaming bonus episode, Ryan Peach and Brian counter are 
 - 41:10: Pick Picnic 
 - 45:15: Goblet 
 - 45:48: No Thanks 
-- 46302: Dead Man's Draw 
+- 46:35: Dead Man's Draw 
 - 50:14: Cards Against Humanity 
 - 50:58: Dice City 
 - 51:44: Race for the Galaxy/Roll for the Galaxy 
