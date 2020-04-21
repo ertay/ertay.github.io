@@ -62,4 +62,4 @@ Nancy Feldman and Zack Cline for taking part in the beta and for providing super
 
 Peter Hansen for listening to my ramblings about how to structure the game code and sometimes giving some decent insight on how I should do certain things.
 
-Finally, Chris Darden, the designer of Dungeon Roll, and Jason Glover, the designer of Desolate, for designing highly entertaining games for us to enjoy, even though we needed to put some time and effort into turning them fully accessible for the blind and visually impaired!
+Finally, Chris Darden, the designer of Dungeon Roll, and Jason Glover, the designer of Desolate, for designing highly entertaining games for us to enjoy, even though we needed to put some time and effort to make them fully accessible for the blind and visually impaired!
