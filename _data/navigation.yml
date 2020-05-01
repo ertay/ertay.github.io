@@ -2,8 +2,6 @@
 main:
   - title: "Home"
     url: /
-  - title: "Alexa Games"
-    url: /alexa-games/
     - title: "Podcast"
     url: /podcast/
   - title: "Categories"
