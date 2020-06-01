@@ -1,0 +1,37 @@
+---
+title: "Deep Space D-6 Alexa Development Log #2"
+categories: [BoardGames, Alexa]
+---
+This is the second Deep Space D-6 for Alexa development log post that was published for my patrons on Patreon on May 15th 2020.
+
+## The Development Log
+
+Another week has passed and it is time for a new development log! Hope you are all doing fine and getting ready to enjoy the weekend. Since most of my current patrons are blind, if you do not have any plans for the weekend, Netflix recently added Audio Description tracks for Breaking Bad. It is one of my favorite shows and I highly recommend checking it out if you haven’t watched it already. A bit off-topic, but it’s great to see Netflix add AD tracks to older shows. Fingers crossed they do this for Star Trek The Next Generation. I never got into Star Trek, and I feel like I’m missing a ton of good stuff!
+
+Alright, let me tell you what I was up to this week with Deep Space D-6 for Alexa. Last week I was stuck trying to come up with a solution for sending crew on away missions. Some enemy threats can only be dealt with by sending some crew types on missions. For example, one such threat is Panel Explosion which incapacitates your engineering crew, and you cannot use that crew type until you send a medical crew on a mission to deal with the panel explosion. Another threat is called Hijackers, and besides being able to destroy this threat with your standard weapons, you can also get rid of them by sending two commander crew on a mission. Now that I mention this threat, I should check what happens if I send a single commander on a mission to deal with the Hijackers, and without sending the second one, try to blow them up with the weapons. I don’t remember testing that scenario, so there’s probably a bug there that doesn’t recover the commander properly...
+
+Thankfully over the past weekend I got a few ideas on how to implement this and on Monday I had a basic version to test with a couple of more basic cards. The solution seemed to work, so it was time for me to begin coding the enemy threats that had special abilities when triggered.
+
+My brother has transcribed all the cards for me, so I just started going through them in alphabetical order and implementing them one by one. As I was doing so, I was testing them separately to see if they worked as intended, but some enemies may have some weird interactions with other threats that may cause something to blow up, but I guess if there are issues like that, they will show up during actual play-testing.
+
+When I finished with the external threats, these are the enemies that have health points and usually cause damage to your ship, it was time to start with the internal threats. The internal threats cause some adverse effects on your ship’s systems or crew. The above-mentioned Panel Explosion is one of them, and another one is called Friendly Fire which causes all your tactical crew from that round to be moved to the infirmary. Nasty stuff.
+
+While adding the first couple of internal threats, I came up with a flexible solution to introduce the new cards that are drawn from the threat deck. Until now, I just had a generic message that said something like “New threat entered the battle: ” followed by the threat name. Now, that obviously doesn’t work if the threat’s name is Pandemic, Solar Winds, or other types of internal threats. So, this approach to have a customized message for different threat types will also come in handy when adding the sound effects down the line, as sound effects for Alexa are added as text, which is actually a link to an mp3 file that you’ve stored somewhere on a server. This approach could also be reused for the destruction of enemy threats. What I mean by that is, I can also have a custom message or sound effect fire up for different types of threats when they need to be discarded. Same things apply for when they get activated and they open fire, or perform another ability. 
+
+About two weeks ago I found some free sound packs that are about 100GB, so hopefully there’ll be stuff I can use from there.
+
+Last night, or more like this morning as it was 4am, I finished implementing the last internal threat, and today just before starting writing this post, I started my first playthrough of the game with all cards in the deck. I seemed to be doing a good job until some sort of error occurred and I got booted from the skill. The game was hosted on my local machine with a debugger attached, and nothing was caught there, so I am suspecting the problem was my internet connection which took longer than 8 seconds to respond for some reason. I still haven’t added the ability to save your game progress, so all my progress was lost when I got booted. 
+
+An important thing about this test run is that I actually enjoyed playing the game with Alexa. It definitely requires a bit more thought than either Dungeon Roll or Desolate, and one of the things I will need to add is to ask Alexa to give you more time before you give a command. Some of you already know that, the timeout for giving her a command is about 8 seconds after which she will ask you again, and if you do not provide a command she will just terminate the skill. One solution around this that I’ve seen other skills use is to provide a longer music track that you can interrupt by saying the Alexa wake word to give your command. So, this will be my first skill where we also have music, hooray!
+
+For next week, I’m planning to add the ability to save the game progress. Then, I’ll need to add some helper commands that give you information about the current status of your ship, your crew, and also information about each enemy. None of this is complex, especially since I’ve done it with the previous two games I developed, it just takes time to type the things out. I will also need to clean up some of the test messages I have scattered and write better descriptions on what is going on. After that’s done, I will run a few other playthroughs and see if other bugs appear. If everything is good, I’ll add the game rules and valid commands to use when playing the game before pushing the first early access build for you to try.
+
+I’m estimating that just as planned,  the first early access build should be ready by the end of next week, but let’s see how things go. With that said, we’ve come to the end of the second development diary. I am very grateful for your support and super excited to hear what you think about the game when it becomes available for testing soon.
+
+As always, if you have any questions or comments, feel free to get in touch!
+
+Take care!
+
+## [Become a Patron for Early Access](https://patreon.com/sightlessfun){:target="_blank"}
+
+Posts like the one you just read are timed exclusives for my patrons. A lot of  time and effort goes into developing the adaptations of these games and releasing  them for free. If you like what I do and enjoy playing these games, or you just want to support something that makes the hobby more accessible to a wider audience by making those games playable for the blind and visually impaired players, you can [become a patron on Patreon](https://patreon.com/sightlessfun){:target="_blank"}. In return, you will be able to get early access to the beta versions of the games while they are still in development and help shape up the final product. You will also be able to participate and vote on future games that I will be adapting next.

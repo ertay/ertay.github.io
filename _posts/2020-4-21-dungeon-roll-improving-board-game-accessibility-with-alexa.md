@@ -1,6 +1,6 @@
 ---
 title: "Dungeon Roll - Improving Board Game Accessibility With Alexa"
-categories: BoardGames
+categories: [BoardGames, Alexa]
 ---
 With the ongoing Corona Pandemic, I am not able to play much with my group. So, thanks to Alexa, I can still get my board gaming fix.
 
