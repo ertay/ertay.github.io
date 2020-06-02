@@ -1,6 +1,7 @@
 ---
 title: "Desolate For Alexa"
 categories: [BoardGames, Alexa]
+permalink: /boardgames/desolate-for-alexa/
 ---
 The second Alexa board game adaptation I was working on was Desolate. The game is now available for you to play for free!
  

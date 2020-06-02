@@ -1,6 +1,7 @@
 ---
 title: "Deep Space D-6 Alexa Development Log #1"
 categories: [BoardGames, Alexa]
+permalink: /boardgames/deep-space-d6-alexa-development-log-one/
 ---
 In this post, I talk about the current development state of my Deep Space D-6 Alexa adaptation. This is the first post of a series that is exclusively available to my Patreon members.
 
