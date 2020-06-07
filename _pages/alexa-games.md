@@ -8,11 +8,11 @@ On this page, uou can find more information about the games that I have released
 
 ### [Dungeon Roll](https://www.amazon.com/Ertay-Shashko-Dungeon-Roll/dp/B0872F4LT5/ref=sr_1_1?dchild=1&keywords=dungeon+roll&qid=1588340372&s=digital-skills&sr=1-1){:target="_blank"}
 
-Dungeon Roll was the first game that I adapted for Alexa in order to make it fully accessible for blind and visually impaired players. In Dungeon Roll, you form a party of bold companions and enter a dungeon to fight monsters and collect precious loot. You can launch the game by saying "Alexa, open Dungeon Roll Game". To find out more about the development of the game, [click here]({{ site.baseurl }}/boardgames/dungeon-roll-improving-board-game-accessibility-with-alexa/){:target="_blank"}.
+Dungeon Roll was the first game that I adapted for Alexa in order to make it fully accessible for blind and visually impaired players. In Dungeon Roll, you form a party of bold companions and enter a dungeon to fight monsters and collect precious loot. You can launch the game by saying "Alexa, enable Dungeon Roll Game". To find out more about the development of the game, [click here]({{ site.baseurl }}/boardgames/dungeon-roll-improving-board-game-accessibility-with-alexa/){:target="_blank"}.
 
 ### [Desolate](https://www.amazon.com/Ertay-Shashko-Desolate-Board-Game/dp/B087D6JDPS/ref=sr_1_1?dchild=1&keywords=desolate&qid=1588340435&s=digital-skills&sr=1-1){:target="_blank"}
 
-In Desolate, you are a captain of a spaceship that has crash landed on a space station of a remote moon. You need to collect five power cells to power up your ship and escape. During your exploration of the space station, you will encounter aliens who stand in your way to safety. To launch the game, say "Alexa, open Desolate Board Game". [Click here]({{ site.baseurl }}/boardgames/desolate-for-alexa/){:target="_blank"} to find out more about the game.
+In Desolate, you are a captain of a spaceship that has crash landed on a space station of a remote moon. You need to collect five power cells to power up your ship and escape. During your exploration of the space station, you will encounter aliens who stand in your way to safety. To launch the game, say "Alexa, enable Desolate Board Game". [Click here]({{ site.baseurl }}/boardgames/desolate-for-alexa/){:target="_blank"} to find out more about the game.
 
 ## Games In Development
 

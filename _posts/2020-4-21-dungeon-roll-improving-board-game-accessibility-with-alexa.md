@@ -41,7 +41,7 @@ Slowly but surely, I reached a level where I was satisfied with the state of the
 
 ## Dungeon Roll Alexa Skill
 
-The skill is available for free in all the countries that support the English locale: US, Canada, UK, Australia, and India. You can use the Alexa app to search for Dungeon Roll, or you can simply try saying “Alexa, open Dungeon Roll Game” to launch it. [Also here is a direct link](https://www.amazon.com/Ertay-Shashko-Dungeon-Roll/dp/B0872F4LT5/ref=sr_1_1?dchild=1&keywords=dungeon+roll&qid=1587423065&s=digital-skills&sr=1-1){:target="_blank"} where you can enable the skill from your browser. You do not need to own an Echo device to play the game, you can also use the Alexa app on your smartphone. The Windows 10 Alexa app is also supported.
+The skill is available for free in all the countries that support the English locale: US, Canada, UK, Australia, and India. You can use the Alexa app to search for Dungeon Roll, or you can simply try saying “Alexa, enable Dungeon Roll Game” to launch it. [Also here is a direct link](https://www.amazon.com/Ertay-Shashko-Dungeon-Roll/dp/B0872F4LT5/ref=sr_1_1?dchild=1&keywords=dungeon+roll&qid=1587423065&s=digital-skills&sr=1-1){:target="_blank"} where you can enable the skill from your browser. You do not need to own an Echo device to play the game, you can also use the Alexa app on your smartphone. The Windows 10 Alexa app is also supported.
 
 With that, as blind and visually impaired players, we can play Dungeon Roll independently without any assistance from someone who is sighted. If you try the game, I would love to hear what you think about it.
 

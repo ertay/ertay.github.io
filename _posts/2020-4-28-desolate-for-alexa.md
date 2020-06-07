@@ -15,6 +15,6 @@ Desolate is a solo science fiction game where your spaceship has crash landed on
  
 ## How to launch Desolate on your Alexa device
  
-To start playing, all you need to do is say “Alexa, open Desolate Board Game”. The game is available in all English locales (USA, Canada, UK, Australia, and India). If the game does not start for any reason, try enabling it from the [Amazon Skill Store](https://www.amazon.com/Ertay-Shashko-Desolate-Board-Game/dp/B087D6JDPS/ref=sr_1_1?dchild=1&keywords=desolate&qid=1588031402&s=digital-skills&sr=1-1){:target="_blank"} first, and then try the “Alexa, open Desolate Board Game” command again.
+To start playing, all you need to do is say “Alexa, enable Desolate Board Game”. The game is available in all English locales (USA, Canada, UK, Australia, and India). If the game does not start for any reason, try enabling it from the [Amazon Skill Store](https://www.amazon.com/Ertay-Shashko-Desolate-Board-Game/dp/B087D6JDPS/ref=sr_1_1?dchild=1&keywords=desolate&qid=1588031402&s=digital-skills&sr=1-1){:target="_blank"} first, and then try the “Alexa, open Desolate Board Game” command again.
  
 Desolate is designed by Jason Glover and published by Grey Gnome Games. If you like this version, which was created to make it accessible for blind players, consider buying the physical board game from [The Game Crafter](https://www.thegamecrafter.com/games/desolate){:target="_blank"}.
