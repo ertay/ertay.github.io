@@ -14,11 +14,9 @@ Dungeon Roll was the first game that I adapted for Alexa in order to make it ful
 
 In Desolate, you are a captain of a spaceship that has crash landed on a space station of a remote moon. You need to collect five power cells to power up your ship and escape. During your exploration of the space station, you will encounter aliens who stand in your way to safety. To launch the game, say "Alexa, enable Desolate Board Game". [Click here]({{ site.baseurl }}/boardgames/desolate-for-alexa/){:target="_blank"} to find out more about the game.
 
-## Games In Development
+### [Deep Space Dice](https://www.amazon.com/Ertay-Shashko-Deep-Space-Dice/dp/B08B1481NR/ref=sr_1_1?dchild=1&keywords=deep+space+dice&qid=1592052831&s=digital-skills&sr=1-1){:target="_blank"}
 
-### Deep Space D-6
-
-I am currently working on adapting a highly popular solo game that has won multiple awards and is one of my favorite solo board games. In Deep Space D-6, you are the captain of a spaceship that runs into a trap, and you need to manage your crew to defend your ship and stay alive. If you want to get early access to the game while it is in development, look for more information below.
+Deep Space Dice is my Alexa adaptation of Deep Space D-6, a solo survival and resource management strategy board game. In Deep Space Dice, you are the captain of a spaceship that warps into a trap and must face an onslaught of alien threats. You manage your crew to try and stay alive. To launch the game, say "Alexa, enable Deep Space Dice". You can [click here]({{ site.baseurl }}/boardgames/alexa/deep-space-dice-for-alexa-is-now-available/){:target="_blank"} to get more information about the game.
 
 ## [Become a Patron for Early Access](https://patreon.com/sightlessfun){:target="_blank"}
 
