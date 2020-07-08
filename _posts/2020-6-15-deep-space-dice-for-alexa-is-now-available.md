@@ -24,7 +24,7 @@ Happy hunting, Captain!
 
 Deep Space Dice is a fan made adaptation of the free print and play version of Deep Space D-6, a solo board game designed by Tony Go, and published by [Tau Leader Games](https://www.tauleadergames.com/){:target="_blank"}. If you like this adaptation, consider buying the physical board game!
 
-The sound effects used in the game are from Amazon's free sound library and by [Phil Michalski from PMSFX](https://www.pmsfx.com/){:target="_blank"}.
+The sound effects used in the game are from Amazon's free sound library and by [Phil Michalski from PMSFX](https://www.pmsfx.com/){:target="_blank"}. Brian Counter and Ruthie Counter are voicing the Admiral when you beat the game.
 
 This project wouldn't have been realized without the support of my [patrons on Patreon](https://www.patreon.com/sightlessfun){:target="_blank"}. Special thanks to Christopher Lehman for his pledge in the Guardian tier. Also, my deepest gratitude goes out to Alex Mitrevski and Nancy Feldman for their pledge in the Sponsor tier. 
 
